@@ -1,9 +1,23 @@
-.btn-lg{
-
-	margin-top:50%;
+h1{
+	position: absolute;
 }
-.col-height{
 
-	height:100%;
+.btn-primary, .btn-success{
+
+	top: 50%;
+	position: absolute;
+	margin-top: -30px;
+
+}
+.btn-success{
+
+	left: 120px;
+}
+img {
+	position: absolute;
+	top: 50%;
+	margin-top: -150px;
+
+
 
 }
